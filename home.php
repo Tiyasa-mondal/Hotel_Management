@@ -263,6 +263,7 @@ if ($usermail == true) {
       </div>
     </div>
   </section>
+  <!-- This is the tempoary changes for testing -->
 
   <section id="thirdsection">
     <h1 class="head"> SPECIAL FACILITY </h1>
